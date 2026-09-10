@@ -6,18 +6,17 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <AssemblyName>limon</AssemblyName>
-	  <ApplicationIcon>limon.ico</ApplicationIcon>
+	<ApplicationIcon>limon.ico</ApplicationIcon>
     <Product>limon</Product>
     <Company>b1no</Company>
     <Authors>b1no</Authors>
-	  <Publisher>b1no</Publisher>
+	<Publisher>b1no</Publisher>
     <Copyright>© 2026 b1no. All rights reserved</Copyright>
-  	<AssemblyVersion>5.2.2</AssemblyVersion>
-    <FileVersion>5.2.2</FileVersion>
-  	<Version>5.2.2</Version>
+  	<AssemblyVersion>5.2.3</AssemblyVersion>
+    <FileVersion>5.2.3</FileVersion>
+  	<Version>5.2.3</Version>
     <InformationalVersion>Stable</InformationalVersion>
-	  <RepositoryUrl>https://github.com/Storinob/limon</RepositoryUrl>
-    <SixLaborsLicenseFile>sixlabors.lic</SixLaborsLicenseFile>
+	<RepositoryUrl>https://github.com/Storinob/limon</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
     <EmbeddedResource Include="done.wav" />
