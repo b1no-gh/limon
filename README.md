@@ -12,7 +12,7 @@ First of all, I built this utility for myself, but I also prepared it for public
 
 ## Features and compatibilitys
 
-<!-- This program may conflict with other utilities for similar tasks, so it is strongly recommended to close other screenshot programs before launching. Including due to the interception of keys for creating screenshots from other programs. -->
+This program may conflict with other utilities for similar tasks, so it is strongly recommended to close other screenshot programs before launching. Including due to the interception of keys for creating screenshots from other programs.
 
 * Utility independently requests administrator rights at startup to avoid conflicts with programs that have a higher priority in the system, such as Task Manager, etc.
 * The utility saves screenshots in the `C:\Users\{user}\Pictures\screenshots\{month_year}\` folder with a random 8-character alphanumeric name and `.webp` format.
